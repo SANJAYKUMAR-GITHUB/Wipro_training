@@ -1,0 +1,7 @@
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\SOLID\W3Day1_assingment\W3Day1_assingment\bin\Debug\W3Day1_assingment.exe.config
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\SOLID\W3Day1_assingment\W3Day1_assingment\bin\Debug\W3Day1_assingment.exe
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\SOLID\W3Day1_assingment\W3Day1_assingment\bin\Debug\W3Day1_assingment.pdb
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\SOLID\W3Day1_assingment\W3Day1_assingment\obj\Debug\W3Day1_assingment.csproj.AssemblyReference.cache
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\SOLID\W3Day1_assingment\W3Day1_assingment\obj\Debug\W3Day1_assingment.csproj.CoreCompileInputs.cache
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\SOLID\W3Day1_assingment\W3Day1_assingment\obj\Debug\W3Day1_assingment.exe
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\SOLID\W3Day1_assingment\W3Day1_assingment\obj\Debug\W3Day1_assingment.pdb
