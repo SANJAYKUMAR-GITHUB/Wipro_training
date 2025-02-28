@@ -1,0 +1,7 @@
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Arithmetic_ope\Arithmetic_ope\bin\Debug\Arithmetic_ope.exe.config
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Arithmetic_ope\Arithmetic_ope\bin\Debug\Arithmetic_ope.exe
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Arithmetic_ope\Arithmetic_ope\bin\Debug\Arithmetic_ope.pdb
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Arithmetic_ope\Arithmetic_ope\obj\Debug\Arithmetic_ope.csproj.AssemblyReference.cache
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Arithmetic_ope\Arithmetic_ope\obj\Debug\Arithmetic_ope.csproj.CoreCompileInputs.cache
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Arithmetic_ope\Arithmetic_ope\obj\Debug\Arithmetic_ope.exe
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Arithmetic_ope\Arithmetic_ope\obj\Debug\Arithmetic_ope.pdb
