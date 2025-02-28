@@ -1,0 +1,7 @@
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day5_exrecies\Day5_exrecies\bin\Debug\Day5_exrecies.exe.config
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day5_exrecies\Day5_exrecies\bin\Debug\Day5_exrecies.exe
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day5_exrecies\Day5_exrecies\bin\Debug\Day5_exrecies.pdb
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day5_exrecies\Day5_exrecies\obj\Debug\Day5_exrecies.csproj.AssemblyReference.cache
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day5_exrecies\Day5_exrecies\obj\Debug\Day5_exrecies.csproj.CoreCompileInputs.cache
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day5_exrecies\Day5_exrecies\obj\Debug\Day5_exrecies.exe
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day5_exrecies\Day5_exrecies\obj\Debug\Day5_exrecies.pdb
