@@ -1,0 +1,7 @@
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day2_exercies2\Day2_exercies2\bin\Debug\Day2_exercies2.exe.config
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day2_exercies2\Day2_exercies2\bin\Debug\Day2_exercies2.exe
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day2_exercies2\Day2_exercies2\bin\Debug\Day2_exercies2.pdb
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day2_exercies2\Day2_exercies2\obj\Debug\Day3_exercies2.csproj.AssemblyReference.cache
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day2_exercies2\Day2_exercies2\obj\Debug\Day3_exercies2.csproj.CoreCompileInputs.cache
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day2_exercies2\Day2_exercies2\obj\Debug\Day2_exercies2.exe
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day2_exercies2\Day2_exercies2\obj\Debug\Day2_exercies2.pdb

@@ -1,0 +1,7 @@
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day2_assessment\Day2_assessment\bin\Debug\Day2_assessment.exe.config
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day2_assessment\Day2_assessment\bin\Debug\Day2_assessment.exe
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day2_assessment\Day2_assessment\bin\Debug\Day2_assessment.pdb
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day2_assessment\Day2_assessment\obj\Debug\Day2_assessment.csproj.AssemblyReference.cache
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day2_assessment\Day2_assessment\obj\Debug\Day2_assessment.csproj.CoreCompileInputs.cache
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day2_assessment\Day2_assessment\obj\Debug\Day2_assessment.exe
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day2_assessment\Day2_assessment\obj\Debug\Day2_assessment.pdb
