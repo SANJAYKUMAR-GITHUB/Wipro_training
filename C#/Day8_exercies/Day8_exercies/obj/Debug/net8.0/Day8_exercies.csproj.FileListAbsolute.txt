@@ -1,0 +1,14 @@
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day8_exercies\Day8_exercies\bin\Debug\net8.0\Day8_exercies.exe
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day8_exercies\Day8_exercies\bin\Debug\net8.0\Day8_exercies.deps.json
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day8_exercies\Day8_exercies\bin\Debug\net8.0\Day8_exercies.runtimeconfig.json
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day8_exercies\Day8_exercies\bin\Debug\net8.0\Day8_exercies.dll
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day8_exercies\Day8_exercies\bin\Debug\net8.0\Day8_exercies.pdb
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day8_exercies\Day8_exercies\obj\Debug\net8.0\Day8_exercies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day8_exercies\Day8_exercies\obj\Debug\net8.0\Day8_exercies.AssemblyInfoInputs.cache
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day8_exercies\Day8_exercies\obj\Debug\net8.0\Day8_exercies.AssemblyInfo.cs
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day8_exercies\Day8_exercies\obj\Debug\net8.0\Day8_exercies.csproj.CoreCompileInputs.cache
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day8_exercies\Day8_exercies\obj\Debug\net8.0\Day8_exercies.dll
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day8_exercies\Day8_exercies\obj\Debug\net8.0\refint\Day8_exercies.dll
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day8_exercies\Day8_exercies\obj\Debug\net8.0\Day8_exercies.pdb
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day8_exercies\Day8_exercies\obj\Debug\net8.0\Day8_exercies.genruntimeconfig.cache
+C:\Users\SANJAYKUMAR K\Desktop\Wipro C#\Day8_exercies\Day8_exercies\obj\Debug\net8.0\ref\Day8_exercies.dll
